@@ -1,6 +1,6 @@
 <h1> Welcome to my Github Profile! </h1>
 
-<p>I am a CS Master's student studying at UIC. Witness my journey as I build up my developer/data scientist portfolio from scratch. I have decided to learn something new or work on a project every day starting from the April 21st 2023. Project progress will be tracked on GitHub via commits and new knowledge will be posted on my blog. This profile is and will always be a work in progress. </p>
+<p>I am a CS Master's student studying at UIC. Witness my journey as I build up my developer/data scientist portfolio from scratch. I have decided to learn something new or work on a project every day starting from the April 21st 2023. Project progress will be tracked on GitHub via commits and new knowledge will be posted on my blog. This portfolio is and will always be a work in progress. </p>
 
 <div>
   <h3> Find me on </h3>
