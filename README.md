@@ -31,7 +31,20 @@
 </div>
 
 <div> 
-  
+  <h3>Goals</h3>
+  <ul>
+    <li>Migrate existing Bugtracker application to Angular</li>
+    <li>Create Social Network Project using Node.js and EJS</li>
+    <li>Create Android App (Idea TBD)</li>
+    <li>Create one AI Powered Application (Idea TBD)</li>
+    <li>Create blog posts on all ML/AI concepts learned</li>
+    <li>Become a Kaggle Expert</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Latest Blog Posts</li>
+  Content Coming Soon...
 </div>
 
 
