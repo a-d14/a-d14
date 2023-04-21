@@ -43,7 +43,7 @@
 </div>
 
 <div>
-  <h3>Latest Blog Posts</li>
+  <h3>Latest Blog Posts</h3>
   Content Coming Soon...
 </div>
 
