@@ -44,7 +44,7 @@
 
 <div>
   <h3>Latest Blog Posts</h3>
-  Content Coming Soon...
+  Posts Coming Soon...
 </div>
 
 
