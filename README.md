@@ -37,7 +37,7 @@
     <li>Create Social Network Project using Node.js and EJS</li>
     <li>Create Android App (Idea TBD)</li>
     <li>Create one AI Powered Application (Idea TBD)</li>
-    <li>Work on Graph Neural Network Research Project and get paper published</li>
+    <li>Work on Graph Neural Network Research Project and get paper published.</li>
     <li>Create blog posts on all ML/AI concepts learned</li>
     <li>Become a Kaggle Expert</li>
     <li>Learn Power BI and MS SQL Server</li>
