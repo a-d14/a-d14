@@ -33,7 +33,7 @@
 <div> 
   <h3>Goals</h3>
   <ul>
-    <li>Migrate Bugtracker application to Angular.</li>
+    <li>Migrate Bugtracker application to Angular</li>
     <li>Create Social Network Project using Node.js and EJS</li>
     <li>Create Android App (Idea TBD)</li>
     <li>Create one AI Powered Application (Idea TBD)</li>
