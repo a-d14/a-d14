@@ -41,7 +41,7 @@
     <li>Create blog posts on all ML/AI concepts learned</li>
     <li>Become a Kaggle Expert</li>
     <li>Learn Power BI and MS SQL Server</li>
-    <li>Create a Portfolio website using advanced CSS and JS</li>
+    <li>Create a Portfolio website using advanced CSS and JS.</li>
   </ul>
 </div>
 
