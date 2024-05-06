@@ -1,6 +1,17 @@
 <h1> Welcome to my Github Profile! </h1>
 
-<p>Here, you will find repositories of all projects I have worked on and currently working on. I believe in creating beauty and I express my creativity through software engineering. I believe writing good code and creating good UI a part of contemporary beauty and I work towards that goal everyday trying to get better at my craft.</p>
+<p>Discover here a collection of repositories showcasing my past and ongoing projects, each a testament to my commitment to craftsmanship and creativity in software engineering. I believe that crafting elegant code and designing intuitive user interfaces contribute to the modern aesthetic, and I strive daily to refine my skills towards this pursuit of excellence. <br>
+
+Outlined below are my current endeavors, representing my short-term aspirations. Looking ahead, my long-term goals involve delving into more intricate projects aimed at deepening my understanding of computer systems. These include endeavors such as developing an operating system, a compiler, crafting my own video game engine, and architecting a database system.</p>
+
+<div> 
+  <h3>Current Goals</h3>
+  <ul>
+    <li>Create a simple distraction free to-do list application with a great user interface using Vanilla JavaScript.</li>
+    <li>Create an web application to plan and organize individual and team development projects.</li>
+    <li>Create a mobile application for students to plan, share and collaborate on ideas.</li>
+  </ul>
+</div>
 
 <div>
   <h3> Find me on </h3>
@@ -28,22 +39,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
-<div> 
-  <h3>Goals</h3>
-  <ul>
-    <li>Migrate Bugtracker application to Angular.</li>
-    <li>Create Social Network Project using Node.js and EJS.</li>
-    <li>Create Android App (Idea TBD).</li>
-    <li>Create one AI Powered Application (Idea TBD)</li>
-    <li>Work on Graph Neural Network Research Project and get paper published.</li>
-    <li>Create blog posts on all ML/AI concepts learned.</li>
-    <li>Become a Kaggle Expert</li>
-    <li>Learn Power BI and MS SQL Server.</li>
-     <li>Create a google chrome extension.</li>
-    <li>Create a Portfolio website using advanced CSS and JS.</li>
-  </ul>
 </div>
 
 <div>
