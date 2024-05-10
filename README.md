@@ -7,9 +7,9 @@ Outlined below are my current endeavors, representing my short-term aspirations.
 <div> 
   <h3>Current Goals</h3>
   <ul>
-    <li>Create a simple distraction free to-do list application with a great user interface using Vanilla JavaScript.</li>
-    <li>Create an web application to plan and organize individual and team development projects.</li>
-    <li>Create a mobile application for students to plan, share and collaborate on ideas.</li>
+    <li>Developing a Java-based Android app for tracking tasks, habits, and social progress, rewarding users with experience points and enabling social interaction.</li>
+    <li>Creating a dynamic social media platform tailored for university communities, for student interaction, event advertising, ticket sales, friend connections, and study group creation.</li>
+    <li>Currently developing a full-stack project management app featuring real-time tracking, project management, work logs, and ongoing integration of live update feeds.</li>
   </ul>
 </div>
 
