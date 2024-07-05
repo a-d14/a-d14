@@ -25,7 +25,7 @@
 
 <div>
   <h2> Find me on </h2>
-  <a href="www.linkedin.com/in/aakashdasgupta">
+  <a href="https://www.linkedin.com/in/aakashdasgupta">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
 <!--   <a href="">
