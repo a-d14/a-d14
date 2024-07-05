@@ -1,50 +1,46 @@
-<h1> Welcome to my Github Profile! </h1>
+<h1> Hi 👋, I'm Aakash </h1>
 
-<p>Discover here a collection of repositories showcasing my past and ongoing projects, each a testament to my commitment to craftsmanship and creativity in software engineering. I believe that crafting elegant code and designing intuitive user interfaces contribute to the modern aesthetic, and I strive daily to refine my skills towards this pursuit of excellence. <br>
+<p>
+  I'm humbled that you stumbled here of all the billion other places on the internet. This place is a visual story of my perseverance and development as a software developer. All the bad code I've written, all the trials and tribulations I go through during the process of development are all documented here.
+</p>
 
-Outlined below are my current endeavors, representing my short-term aspirations. Looking ahead, my long-term goals involve delving into more intricate projects aimed at deepening my understanding of computer systems. These include endeavors such as developing an operating system, a compiler, crafting my own video game engine, and architecting a database system.</p>
+<h2>A Little About Me</h2>
+<p>I am an entry-level web developer and a student of Artificial Intelligence seeking entry-level software engineering positions. I hold a Master's degree in Computer Science from the University of Illinois at Chicago. When I am not programming, I enjoy listening to hip-hop, playing the guitar, working out and watching combat sports.</p>
 
 <div> 
-  <h3>Current Goals</h3>
+  <h2>Stuff I'm working on</h2>
   <ul>
-    <li>Developing a Java-based Android app for tracking tasks, habits, and social progress, rewarding users with experience points and enabling social interaction.</li>
-    <li>Creating a dynamic social media platform tailored for university communities, for student interaction, event advertising, ticket sales, friend connections, and study group creation.</li>
-    <li>Currently developing a full-stack project management app featuring real-time tracking, project management, work logs, and ongoing integration of live update feeds.</li>
+    <li>A task manager application using HTML, SASS and JavaScript.</li>
+    <li>A Project Management application using React, Node.js and MongoDB.</li>
+    <li>A web extension that encourages and helps users use YouTube more mindfully. Instead of clouding the mind with unnecessary garbage, this application will only show videos on topics of interest selected by the user.</li>
   </ul>
 </div>
 
 <div>
-  <h3> Find me on </h3>
-  <a href="https://linkedin.com/in/aakashdasgupta">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <h2>Technologies I Use</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,sass,js,nodejs,express,react,mongodb,mysql,aws,java,python,pytorch&perline=14" />
+  </p>
+</div>
+
+<div>
+  <h2> Find me on </h2>
+  <a href="www.linkedin.com/in/aakashdasgupta">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
-  <a href="">
+<!--   <a href="">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
-<div>
-  <h3>Technologies I Use</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
 
-<div>
+<!-- <div>
   <h3>Latest Blog Posts</h3>
   Posts Coming Soon...
-</div>
+</div> -->
 
 
 <!--
