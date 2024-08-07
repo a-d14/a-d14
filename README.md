@@ -12,7 +12,6 @@
   <ul>
     <li>A task manager application using HTML, SASS and JavaScript.</li>
     <li>A Project Management application using React, Node.js and MongoDB.</li>
-    <li>A web extension that encourages and helps users use YouTube more mindfully. Instead of clouding the mind with unnecessary garbage, this application will only show videos on topics of interest selected by the user.</li>
   </ul>
 </div>
 
