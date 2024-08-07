@@ -11,7 +11,7 @@
   <h2>Stuff I'm working on</h2>
   <ul>
     <li>A task manager application using HTML, SASS and JavaScript.</li>
-    <li>A Project Management application using React, Node.js and MongoDB.</li>
+    <li>A Project Management application using React, Spring Boot and MySQL.</li>
   </ul>
 </div>
 
