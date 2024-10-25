@@ -18,7 +18,7 @@
 <div>
   <h2>Technologies I Use</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,sass,js,react,java,spring,nodejs,express,mongodb,mysql,aws,python,pytorch,bash&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,sass,js,react,java,spring,nodejs,express,mongodb,mysql,python,bash&perline=14" />
   </p>
 </div>
 
