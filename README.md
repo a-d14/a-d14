@@ -11,7 +11,7 @@
   <h2>Stuff I'm working on</h2>
   <ul>
     <li>A Project Management application using React, Spring Boot and MySQL.</li>
-    <li>A Social Media App for Tourism.</li>
+    <li>A Collaborative Habit Tracking Tool.</li>
   </ul>
 </div>
 
