@@ -9,8 +9,8 @@ Full-stack Web Developer from India 🇮🇳. Looking for work.
 ![Spring](https://img.shields.io/badge/Spring-1E2E18?style=flat-square&logo=spring&link=https://spring.io/)
 
 ## Reach out on
-![LinkedIn](https://img.shields.io/badge/LinkedIn-6ba5e8?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faakashdasgupta%2F)
-![X](https://img.shields.io/badge/(Formerly%20Twitter)-000?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2Faakashtwts_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6ba5e8?style=for-the-badge)](https://www.linkedin.com/in/aakashdasgupta/)
+[![X](https://img.shields.io/badge/(Formerly%20Twitter)-000?style=for-the-badge&logo=x)](https://x.com/aakashtwts_)
 
 ## Project Showcase
 **[Quiz Application](https://github.com/a-d14/quiz-app-frontend-mentor)**
