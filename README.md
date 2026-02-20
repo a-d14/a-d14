@@ -19,6 +19,7 @@ Full-stack Web Developer from India 🇮🇳. Looking for work.
 **[BMI Calculator](https://github.com/a-d14/bmi-calculator-frontend-mentor)**
 
 ## Completed Projects
+### Frontend
 - **[E-commerce Product Page](https://github.com/a-d14/ecommerce-product-page-frontend-mentor)**
 - **[News Homepage](https://github.com/a-d14/news-homepage-frontend-mentor)**
 - **[Contact Form Component](https://github.com/a-d14/contact-form-frontend-mentor)**
